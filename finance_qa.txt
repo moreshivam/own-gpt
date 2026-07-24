@@ -1,0 +1,305 @@
+Q: What is a stock?
+A: A stock represents a share of ownership in a company. Owning a stock makes you a partial owner, entitled to a portion of the company's profits and assets.
+
+Q: What is a bond?
+A: A bond is a loan an investor makes to a company or government. In return, the issuer pays periodic interest and repays the principal at maturity.
+
+Q: What is the stock market?
+A: The stock market is a collection of exchanges where shares of publicly traded companies are issued, bought, and sold.
+
+Q: What is a share?
+A: A share is a single unit of ownership in a company, representing a fraction of its total equity.
+
+Q: What is a dividend?
+A: A dividend is a portion of a company's profit distributed to shareholders, usually paid in cash on a regular schedule.
+
+Q: What is market capitalization?
+A: Market capitalization is the total value of a company's outstanding shares, calculated by multiplying share price by the number of shares outstanding.
+
+Q: What is a bull market?
+A: A bull market is a period when prices are rising or expected to rise, reflecting investor optimism.
+
+Q: What is a bear market?
+A: A bear market is a period when prices are falling, typically defined as a drop of 20% or more from recent highs.
+
+Q: What is an IPO?
+A: An IPO, or initial public offering, is the first time a private company sells shares to the public on a stock exchange.
+
+Q: What is a stock exchange?
+A: A stock exchange is a regulated marketplace where securities like stocks and bonds are bought and sold, such as the NYSE or Nasdaq.
+
+Q: What is a ticker symbol?
+A: A ticker symbol is a unique series of letters assigned to a security for trading purposes, such as AAPL for Apple.
+
+Q: What is a market order?
+A: A market order is an instruction to buy or sell a security immediately at the best available current price.
+
+Q: What is a limit order?
+A: A limit order is an instruction to buy or sell a security only at a specified price or better.
+
+Q: What is short selling?
+A: Short selling is selling borrowed shares with the intention of buying them back later at a lower price to profit from a decline.
+
+Q: What is volatility?
+A: Volatility measures how much and how quickly the price of a security moves up or down over time.
+
+Q: What is liquidity?
+A: Liquidity refers to how easily an asset can be bought or sold in the market without significantly affecting its price.
+
+Q: What is diversification?
+A: Diversification is spreading investments across different assets to reduce the risk of any single investment hurting the whole portfolio.
+
+Q: What is asset allocation?
+A: Asset allocation is dividing an investment portfolio among different asset categories, such as stocks, bonds, and cash.
+
+Q: What is a portfolio?
+A: A portfolio is the collection of all the investments an individual or institution holds.
+
+Q: What is risk tolerance?
+A: Risk tolerance is the degree of variability in investment returns an investor is willing to withstand.
+
+Q: What is dollar-cost averaging?
+A: Dollar-cost averaging is investing a fixed amount of money at regular intervals, regardless of price, to reduce the impact of volatility.
+
+Q: What is compound interest?
+A: Compound interest is interest calculated on both the initial principal and the accumulated interest from previous periods.
+
+Q: What is inflation?
+A: Inflation is the rate at which the general price level of goods and services rises, reducing purchasing power over time.
+
+Q: What is a recession?
+A: A recession is a significant decline in economic activity across the economy, typically lasting several months or more.
+
+Q: What is the P/E ratio?
+A: The price-to-earnings ratio compares a company's share price to its earnings per share, indicating how much investors pay per dollar of earnings.
+
+Q: What is EPS?
+A: Earnings per share is a company's net profit divided by the number of outstanding shares, showing profitability per share.
+
+Q: What is a balance sheet?
+A: A balance sheet is a financial statement showing a company's assets, liabilities, and shareholders' equity at a point in time.
+
+Q: What is an income statement?
+A: An income statement shows a company's revenues, expenses, and profit or loss over a specific period.
+
+Q: What is a cash flow statement?
+A: A cash flow statement tracks the actual cash moving in and out of a business from operating, investing, and financing activities.
+
+Q: What is ROI?
+A: Return on investment measures the profitability of an investment relative to its cost, usually expressed as a percentage.
+
+Q: What is ROE?
+A: Return on equity measures how efficiently a company generates profit from shareholders' invested capital.
+
+Q: What is revenue?
+A: Revenue is the total income a company generates from selling goods or services before expenses are deducted.
+
+Q: What is net income?
+A: Net income is a company's total profit after subtracting all expenses, taxes, and costs from revenue.
+
+Q: What is a mutual fund?
+A: A mutual fund pools money from many investors to buy a diversified portfolio of stocks, bonds, or other securities, managed by a professional.
+
+Q: What is an ETF?
+A: An exchange-traded fund is a basket of securities that trades on an exchange like a stock, often tracking an index.
+
+Q: What is an index fund?
+A: An index fund is a type of mutual fund or ETF designed to track the performance of a specific market index.
+
+Q: What is a hedge fund?
+A: A hedge fund is a pooled investment fund that uses advanced strategies, often with higher risk, aiming for high returns for accredited investors.
+
+Q: What is a REIT?
+A: A real estate investment trust is a company that owns or finances income-producing real estate, allowing investors to earn from property without owning it directly.
+
+Q: What is the S&P 500?
+A: The S&P 500 is a stock market index tracking the performance of 500 large publicly traded companies in the United States.
+
+Q: What is the Dow Jones Industrial Average?
+A: The Dow Jones Industrial Average is a stock index tracking 30 large, well-established U.S. companies.
+
+Q: What is the Nasdaq?
+A: The Nasdaq is a stock exchange known for listing many technology companies, and also refers to its composite index.
+
+Q: What is a blue chip stock?
+A: A blue chip stock belongs to a large, financially stable, and well-established company with a history of reliable performance.
+
+Q: What is a growth stock?
+A: A growth stock is a share in a company expected to grow revenue and earnings faster than the overall market.
+
+Q: What is a value stock?
+A: A value stock trades at a price considered low relative to its fundamentals, such as earnings or book value.
+
+Q: What is a penny stock?
+A: A penny stock is a low-priced share, typically trading under five dollars, often from small or speculative companies.
+
+Q: What is market volatility index, or VIX?
+A: The VIX measures expected market volatility based on S&P 500 options prices, often called the market's fear gauge.
+
+Q: What is a broker?
+A: A broker is an individual or firm that executes buy and sell orders for securities on behalf of investors.
+
+Q: What is a brokerage account?
+A: A brokerage account is an account that allows an investor to buy, sell, and hold securities like stocks and bonds.
+
+Q: What is margin trading?
+A: Margin trading involves borrowing money from a broker to buy securities, amplifying both potential gains and losses.
+
+Q: What is a stock split?
+A: A stock split increases the number of shares outstanding by dividing each existing share, lowering the price per share without changing total value.
+
+Q: What is a buyback?
+A: A stock buyback is when a company repurchases its own shares from the market, reducing the number of shares outstanding.
+
+Q: What is book value?
+A: Book value is a company's total assets minus total liabilities, representing its net worth on the balance sheet.
+
+Q: What is market value?
+A: Market value is the current price at which an asset or company could be bought or sold in the marketplace.
+
+Q: What is a yield?
+A: Yield is the income return on an investment, such as interest or dividends, expressed as a percentage of the investment's cost or value.
+
+Q: What is dividend yield?
+A: Dividend yield is a company's annual dividend payment divided by its share price, expressed as a percentage.
+
+Q: What is a stock buyback program?
+A: A stock buyback program is a company's plan to repurchase its own shares over time, often to boost share price or return cash to shareholders.
+
+Q: What is an index?
+A: An index is a statistical measure tracking the performance of a group of assets, used as a benchmark for market performance.
+
+Q: What is asset class?
+A: An asset class is a group of investments with similar characteristics, such as stocks, bonds, real estate, or cash.
+
+Q: What is a security?
+A: A security is a tradable financial instrument representing value, such as a stock, bond, or option.
+
+Q: What is an option?
+A: An option is a contract giving the holder the right, but not the obligation, to buy or sell an asset at a set price before a certain date.
+
+Q: What is a call option?
+A: A call option gives the holder the right to buy an asset at a specified price before the option expires.
+
+Q: What is a put option?
+A: A put option gives the holder the right to sell an asset at a specified price before the option expires.
+
+Q: What is leverage?
+A: Leverage is using borrowed capital to increase the potential return of an investment, which also increases potential risk.
+
+Q: What is a fiscal year?
+A: A fiscal year is a twelve-month period a company uses for financial reporting, which may not align with the calendar year.
+
+Q: What is earnings season?
+A: Earnings season is the period when most publicly traded companies release their quarterly financial results.
+
+Q: What is a quarterly report?
+A: A quarterly report is a financial statement companies file every three months detailing revenue, profit, and other performance metrics.
+
+Q: What is an annual report?
+A: An annual report is a comprehensive yearly document companies publish summarizing financial performance and business activities.
+
+Q: What is the SEC?
+A: The Securities and Exchange Commission is the U.S. government agency responsible for regulating securities markets and protecting investors.
+
+Q: What is insider trading?
+A: Insider trading is buying or selling a security based on material, non-public information, which is illegal when done unfairly.
+
+Q: What is a fiduciary?
+A: A fiduciary is a person or entity legally obligated to act in the best financial interest of their client.
+
+Q: What is asset management?
+A: Asset management is the professional management of investments on behalf of clients to meet specified financial goals.
+
+Q: What is a financial advisor?
+A: A financial advisor is a professional who provides guidance on managing money, investments, and financial planning.
+
+Q: What is retirement account?
+A: A retirement account is a tax-advantaged account, such as a 401k or IRA, designed to help individuals save for retirement.
+
+Q: What is a 401k?
+A: A 401k is an employer-sponsored retirement savings plan that allows employees to contribute pre-tax income, often with employer matching.
+
+Q: What is an IRA?
+A: An individual retirement account is a personal savings account offering tax advantages for retirement savings.
+
+Q: What is capital gain?
+A: A capital gain is the profit earned when an asset is sold for more than its original purchase price.
+
+Q: What is capital loss?
+A: A capital loss occurs when an asset is sold for less than its original purchase price.
+
+Q: What is a capital gains tax?
+A: Capital gains tax is a tax on the profit realized from selling an asset that has increased in value.
+
+Q: What is a trade deficit?
+A: A trade deficit occurs when a country imports more goods and services than it exports.
+
+Q: What is GDP?
+A: Gross domestic product is the total monetary value of all goods and services produced within a country over a specific period.
+
+Q: What is an interest rate?
+A: An interest rate is the cost of borrowing money, or the return earned on savings, expressed as a percentage.
+
+Q: What is the Federal Reserve?
+A: The Federal Reserve is the central banking system of the United States, responsible for monetary policy and financial stability.
+
+Q: What is monetary policy?
+A: Monetary policy refers to actions taken by a central bank to control the money supply and interest rates to manage economic growth and inflation.
+
+Q: What is quantitative easing?
+A: Quantitative easing is a monetary policy where a central bank buys securities to increase the money supply and lower interest rates.
+
+Q: What is a credit rating?
+A: A credit rating is an assessment of the creditworthiness of a borrower, indicating the likelihood of repaying debt.
+
+Q: What is a bond yield?
+A: Bond yield is the return an investor earns on a bond, considering its price, coupon payments, and time to maturity.
+
+Q: What is a coupon rate?
+A: A coupon rate is the annual interest rate paid by a bond issuer, expressed as a percentage of the bond's face value.
+
+Q: What is bond maturity?
+A: Bond maturity is the date on which the bond issuer must repay the principal amount to the bondholder.
+
+Q: What is a Treasury bond?
+A: A Treasury bond is a long-term debt security issued by the U.S. government, considered one of the safest investments.
+
+Q: What is corporate debt?
+A: Corporate debt refers to money a company borrows, typically through issuing bonds or taking loans, to fund its operations.
+
+Q: What is credit risk?
+A: Credit risk is the possibility that a borrower will fail to repay a loan or meet contractual obligations.
+
+Q: What is market risk?
+A: Market risk is the possibility of losses due to overall movements in financial markets, affecting most investments.
+
+Q: What is systematic risk?
+A: Systematic risk is the risk inherent to the entire market that cannot be eliminated through diversification.
+
+Q: What is unsystematic risk?
+A: Unsystematic risk is risk specific to a particular company or industry, which can be reduced through diversification.
+
+Q: What is a bear trap?
+A: A bear trap is a false signal suggesting a market or stock is declining, tricking investors into selling before prices rise again.
+
+Q: What is a bull trap?
+A: A bull trap is a false signal suggesting a stock or market is rising, tricking investors into buying before prices fall again.
+
+Q: What is technical analysis?
+A: Technical analysis studies past market data, primarily price and volume, to forecast future price movements.
+
+Q: What is fundamental analysis?
+A: Fundamental analysis evaluates a company's financial health, management, and industry position to determine its intrinsic value.
+
+Q: What is a support level?
+A: A support level is a price point where a stock tends to stop falling due to increased buying interest.
+
+Q: What is a resistance level?
+A: A resistance level is a price point where a stock tends to stop rising due to increased selling interest.
+
+Q: What is a moving average?
+A: A moving average is the average price of a security over a specific period, smoothing out short-term price fluctuations.
+
+Q: What is trading volume?
+A: Trading volume is the total number of shares or contracts traded for a security during a given period.
